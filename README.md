@@ -1,5 +1,5 @@
 ### Hi there, I'm Paras 👋
-# I'm a full stack developer 👨‍💻
+## I'm a full stack developer 👨‍💻
 
 - 🔭 I’m currently working on Dynamic Website & Python Automation.
 - 🌱 I’m currently learning Python, Laravel.
