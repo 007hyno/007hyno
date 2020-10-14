@@ -5,6 +5,15 @@
 - 🌱 I’m currently learning Python, Laravel.
 - 📫 How to reach me: by email or oz#4415 on Discord
 - ⚡ Fun fact:The “thumps up” emoji has been used on Github more than 7.2 million times.  
+
+<a href="https://github.com/hackcoderr/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=007hyno&show_icons=true&include_all_commits=true&theme=radical%22%20alt=%22Paras%27s%20github%20stats" />
+</a>
+<a href="https://github.com/007hyno/github-readme-stats">
+ 
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=007hyno&layout=compact&theme=radical" />
+</a>
+
 ## Technical Skills 🛠 
 <img align='left' src='https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif' width='250"'>
 
@@ -21,15 +30,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)
 
-## Quick Overview 📝
-    
-<a href="https://github.com/hackcoderr/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=007hyno&show_icons=true&include_all_commits=true&theme=radical%22%20alt=%22Paras%27s%20github%20stats" />
-</a>
-<a href="https://github.com/007hyno/github-readme-stats">
- 
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=007hyno&layout=compact&theme=radical" />
-</a>
 
 <!--
 **007hyno/007hyno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
