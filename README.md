@@ -27,7 +27,7 @@ As we all know that under <b>engineering</b>, technical skills always provide un
 <a href="https://github.com/hackcoderr/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=007hyno&show_icons=true&include_all_commits=true&theme=radical%22%20alt=%22Paras%27s%20github%20stats" />
 </a>
-<a href="https://github.com/hackcoderr/github-readme-stats">
+<a href="https://github.com/007hyno/github-readme-stats">
  
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=007hyno&layout=compact&theme=radical" />
 </a>
