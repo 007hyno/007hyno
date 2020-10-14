@@ -5,6 +5,8 @@
 - 🌱 I’m currently learning Python, Laravel.
 - 📫 How to reach me: by email or oz#4415 on Discord
 - ⚡ Fun fact:The “thumps up” emoji has been used on Github more than 7.2 million times.  
+<img align='left' src='https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif' width='250"'>
+
 <!--
 **007hyno/007hyno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
