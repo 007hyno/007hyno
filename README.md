@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on Dynamic Website & Python Automation.
 - 🌱 I’m currently learning Python, Laravel.
 - 📫 How to reach me: by email or oz#4415 on Discord
-- ⚡ Fun fact:The “thumps up” emoji has been used on Github more than 7.2 million times.  
+- ⚡ Fun fact: Logic is same, only syntax is different.
 
 <a href="https://github.com/hackcoderr/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=007hyno&show_icons=true&include_all_commits=true&theme=radical" alt="Sachin's github stats" />
