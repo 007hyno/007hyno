@@ -1,8 +1,8 @@
 ### Hi there, I'm Paras 👋
 ## I'm a full stack developer 👨‍💻
 
-- 🔭 I’m currently working on Dynamic Website & Python Automation.
-- 🌱 I’m currently learning Python, Laravel.
+- 🔭 I love building software that solves practical problems.
+- 🌱 I’m pursuing Computer Application from GEHU, Dehradun.
 - 📫 How to reach me: by email or oz#4415 on Discord
 - ⚡ Fun fact: Logic is same, only syntax is different.
 
