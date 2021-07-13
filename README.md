@@ -1,4 +1,4 @@
-### Hi there, I'm Paras 👋
+### नमस्ते (Namaste)🙏🏻, I'm Paras 👋
 ## I'm a full stack developer 👨‍💻
 
 - 🔭 I love building software that solves practical problems.
