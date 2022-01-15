@@ -1,10 +1,10 @@
 ### नमस्ते (Namaste)🙏🏻, I'm Paras 👋
 ## I'm a full stack developer 👨‍💻
 
-# - 🔭 I love building software that solves practical problems.
-# - 🌱 I’m pursuing Computer Application from GEHU, Dehradun.
-# - 📫 How to reach me: by email or oz#4415 on Discord
-# - ⚡ Fun fact: Logic is same, only syntax is different.
+### - 🔭 I love building software that solves practical problems.
+### - 🌱 I’m pursuing Computer Application from GEHU, Dehradun.
+### - 📫 How to reach me: by email or oz#4415 on Discord
+### - ⚡ Fun fact: Logic is same, only syntax is different.
 
 <a href="https://github.com/hackcoderr/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=007hyno&show_icons=true&include_all_commits=true&theme=radical" alt="Sachin's github stats" />
