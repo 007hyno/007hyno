@@ -13,6 +13,8 @@
  
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=007hyno&layout=compact&theme=radical" />
 </a>
+    <img class="img_round" src="https://github-readme-stats.vercel.app/api/top-langs/?username=007hyno&theme=blue-green" alt="follower">
+
 
 ## Technical Skills 🛠 
 <img align='left' src='https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif' width='250"'>
